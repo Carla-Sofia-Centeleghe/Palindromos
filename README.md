@@ -1,1 +1,2 @@
 # Palindromos
+# insignias
