@@ -5,3 +5,4 @@
 
 [![Test Coverage](https://api.codeclimate.com/v1/badges/a0891139b9c953a9f05c/test_coverage)](https://codeclimate.com/github/Carla-Sofia-Centeleghe/Palindromos/test_coverage)
 
+prueba 0.2
